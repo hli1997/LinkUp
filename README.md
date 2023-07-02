@@ -1,2 +1,3 @@
 # SocialHive
-A responsive MERN social media application.
+
+A MERN social media application.
